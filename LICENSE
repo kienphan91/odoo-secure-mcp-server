@@ -1,0 +1,17 @@
+Documentation license
+
+The documentation text and images in this repository (README.md, MCPSERVERS_SUBMISSION.md,
+docs/) are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:   https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) Kevin Apps
+
+You are free to share and adapt this documentation for any purpose, even commercially,
+provided you give appropriate credit, link to the license and indicate if changes were made.
+
+This license does NOT cover the "Secure MCP Server" module (`mcp_server_secure`) itself.
+The module source is not part of this repository. It is distributed through the Odoo Apps
+Store under the Odoo Proprietary License v1.0 (OPL-1).
